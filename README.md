@@ -22,3 +22,6 @@ This project demonstrates a **Home Automation System** using the **Blynk IoT App
 - Integration with real-world hardware components.
 - Adding more automation rules and sensor-based controls.
 
+## Refrence
+https://youtu.be/1aZYOjLVACQ?si=NVTBB70ipz82PwJv
+
